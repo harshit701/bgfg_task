@@ -1,0 +1,18 @@
+.list h1 {
+  text-align: center;
+}
+
+.list li {
+  display: grid;
+  text-align: center;
+  margin: 25px;
+}
+
+.list li img {
+  margin: 0 auto;
+  width: 25%;
+}
+
+.content small {
+  text-align: right;
+}

@@ -1,0 +1,10 @@
+.article {
+  display: grid;
+  text-align: center;
+  margin: 25px;
+}
+
+.article img {
+  margin: 0 auto;
+  width: 50%;
+}
